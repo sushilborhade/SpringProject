@@ -13,4 +13,8 @@ public class HelloWorld {
     public String sayByeBye() {
         return "Bye...";
     }
+
+    public String welcome(){
+        return "Welcome";
+    }
 }
